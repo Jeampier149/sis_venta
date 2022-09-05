@@ -1,0 +1,91 @@
+th,tr,thead{
+    text-align: center;
+}
+
+table img{
+    border-radius: 45%;
+}
+.badge-danger,.boton-borrar{
+    background-color:#162634!important;
+    color:#fff
+}
+.badge-success{
+    background-color:#27B281!important;
+}
+.ibox-head{
+    background-color:#21857B!important;
+}
+.boton-general{
+    background-color:#237286!important;
+    border-color:#237286!important;
+    color:white!important;
+}
+.btn-default{
+    background-color:#37B38D!important;
+    color:white!important;
+}
+.dtr-details{
+    text-align:left!important;
+}
+form .row{
+    margin-bottom:15px!important;
+}
+.habil{
+ background-color:#27B281!important;
+ color:white!important;
+}
+.inha{
+    background-color:#162634!important;
+    color:white!important;
+}
+
+td.child{
+    text-align:left!important;
+}
+label{
+    font-weight:600;
+}
+.form-control[readonly] {
+    background-color: #fff!important;
+}
+.ocultar{
+    display:none!important;
+}
+.mostrar{
+    display:block!important;
+}
+.boton-exito{
+    background-color: #37B38D;
+    color:white
+}
+.input-group-addon{
+    background-color:#237286!important;
+    border-color:#237286!important;
+    color:white!important;
+
+}
+.select2-selection--single{
+    height:33.3px!important;
+}
+#total_mostrar{
+    font-weight:600;
+ 
+}
+.data{
+   
+    font-size:12px!important;
+}
+.titu{
+    height: 35px !important;
+    background-color: #21857B;
+}
+.shad{
+    -webkit-box-shadow: 7px 12px 18px -4px #8F8F8F; 
+    box-shadow: 7px 12px 18px -4px #8F8F8F;
+}
+.equilibrar{
+    padding-bottom: 74px!important;
+}
+.venta_equi{
+    padding-bottom: 154px!important;
+}

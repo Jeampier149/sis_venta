@@ -1,0 +1,11 @@
+table
+{
+   
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+}
+table tr {
+    background-color: #f8f8f8;
+    border: 2px solid rgb(202, 76, 76);
+    padding: .35em;
+  }
